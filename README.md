@@ -1,2 +1,2 @@
-# assignments
-all my assignments in luxdev hq will be stored here
+# Assignments
+all my assignments in Luxdev hq will be stored here
